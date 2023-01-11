@@ -1,0 +1,19 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+ tr {
+    background-color: rgb(157, 115, 115);}
+ th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #eeba66;
+    color: white;
+  }
+  h2{
+    text-align: center;
+    color: saddlebrown;
+    font-weight: bold;
+  }

@@ -1,0 +1,48 @@
+h3{
+    color: rgb(16, 5, 140);
+    text-align: center;
+    height: 5px;
+    padding-top: 1em;
+    font-family: Arial, "Times New Roman", Verdana, serif;
+    font-weight: bold;
+}
+div{  
+    
+   padding-top: 4em;
+   padding-left: 1em;
+   padding-right: 1em;
+
+  border-top-right-radius: 10em;
+  border-top-left-radius: 10em;
+  border-bottom-right-radius: 10em;
+  border-bottom-left-radius: 10em;
+}
+h6{
+    padding-left: 1em;
+}
+h4{
+    color: rgb(2, 153, 223);
+    font-family: Arial, "Times New Roman", Verdana, serif;
+    
+}
+h5{
+    padding-right: 1em;
+}
+p{
+    padding-left: 6em;
+}
+b{
+    color: crimson;
+}
+.encadrer_texte {
+    width: fit-content;
+    border: 2px solid rgb(8, 7, 7);
+    padding: 50px;
+    margin: auto;
+   
+  }
+style{   
+    filter: contrast(20%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   background-size: 100% 100%;}
